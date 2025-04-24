@@ -2,7 +2,7 @@
 
 This command-line Java application uses a Naive Bayes machine learning model from the WEKA library to predict a user's political affiliation based on their responses to a short survey. Over time, the system improves by appending new responses and actual party labels to a CSV file for retraining.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
